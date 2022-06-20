@@ -29,7 +29,6 @@ Create AI model for classify sea sponges and non sea sponges.
 
 ## Technologies Used
 ![Screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
-
 ![tf-lite-in-renode_TF-blog](https://user-images.githubusercontent.com/84491967/168413228-1fa46f4b-1c8b-472b-a1c6-ecad92966019.png)
 ![1_JQofwNWO5ancK5ug2ezDgw](https://user-images.githubusercontent.com/84491967/168413342-afcbd3e0-ad3f-42d5-83f7-3873ed80ed42.png)
 ![numpy](https://user-images.githubusercontent.com/84491967/168413436-731ca931-e6c3-4349-b1d1-0609370f974e.png)
