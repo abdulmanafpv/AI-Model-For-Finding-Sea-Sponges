@@ -8,6 +8,11 @@ This is a AI Model For Finding Sea Sponges. This AI model help to classify sea s
 ## Objective
 Create AI model for classify sea sponges and non sea sponges. 
 
+## Images of Model Performance
+![model accuracy graph](https://user-images.githubusercontent.com/84491967/174524492-5eb265a4-fc85-4d4d-984b-c151da91f7cc.png)
+![model loss graph](https://user-images.githubusercontent.com/84491967/174524514-eb22e703-efe7-4278-84f3-49b3df8f3c25.png)
+
+
 ## Steps and tasks
 
 1. Make AI model by using CNN
